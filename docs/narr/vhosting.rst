@@ -80,6 +80,8 @@ In the above configuration, we root a :app:`Pyramid` application at
 
 .. _virtual_root_support:
 
+Similar behaviour gives `route_prefix` `Configurator's` param. It will add prefix to all routes.
+
 Virtual Root Support
 --------------------
 
